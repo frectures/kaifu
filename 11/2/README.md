@@ -2,7 +2,7 @@
 
 ### 2.1
 
-Öffne das BlueJ-Projekt *Uhrenanzeige*. Darin findest du eine (unvollständige und deshalb nicht übersetzbare) Klasse `Nummernanzeige`, die du im Editor öffnen und dir erarbeiten sollst. Lies insbesondere den Klassenkommentar sehr genau durch, um die gewünschte Funktionalität der Klasse zu verstehen. Alle Methodenrümpfe der Klasse sind leer. Implementiere nun alle Methoden im Sinne der Kommentare. Teste deine fertige Klasse gründlich!
+Öffne das BlueJ-Projekt [Uhrenanzeige](https://github.com/frectures/kaifu/blob/master/11/2/Uhrenanzeige.zip?raw=true). Darin findest du eine (unvollständige und deshalb nicht übersetzbare) Klasse `Nummernanzeige`, die du im Editor öffnen und dir erarbeiten sollst. Lies insbesondere den Klassenkommentar sehr genau durch, um die gewünschte Funktionalität der Klasse zu verstehen. Alle Methodenrümpfe der Klasse sind leer. Implementiere nun alle Methoden im Sinne der Kommentare. Teste deine fertige Klasse gründlich!
 
 ### 2.2
 

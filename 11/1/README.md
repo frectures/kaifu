@@ -2,7 +2,7 @@
 
 ### 1.1
 
-Lade das Projekt [Ampeln](https://github.com/frectures/kaifu/blob/master/11/Ampeln.zip?raw=true) herunter und studiere die Klasse `Ampel`. Zeichne alle 4 in Hamburg üblichen Ampelphasen für den Kraftverkehr in der richtigen Reihenfolge auf.
+Lade das Projekt [Ampeln](https://github.com/frectures/kaifu/blob/master/11/1/Ampeln.zip?raw=true) herunter und studiere die Klasse `Ampel`. Zeichne alle 4 in Hamburg üblichen Ampelphasen für den Kraftverkehr in der richtigen Reihenfolge auf.
 
 ### 1.2
 
